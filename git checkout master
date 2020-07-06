@@ -1,0 +1,47 @@
+[33mcommit ad789f0ff1f03c74cfd1caf1fe4a12e72347c3fb[m[33m ([m[1;36mHEAD -> [m[1;32mPlot-Style-Change-2[m[33m, [m[1;31morigin/Plot-Style-Change-1[m[33m, [m[1;32mPlot-Style-Change-1[m[33m)[m
+Author: Mohammed Rakib <rafz.rakib@gmail.com>
+Date:   Mon Jul 6 20:41:11 2020 +0600
+
+    Change style to seaborn-pastel
+
+[33mcommit 8a10a526fe5e6e7912bb3dc1efe3ab6c0865306e[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Mohammed Rakib <rafz.rakib@gmail.com>
+Date:   Mon Jul 6 20:09:57 2020 +0600
+
+    Change plot style to seaborn-darkgrid
+
+[33mcommit be178a9aa7c3392449dacf357d937510ff928d73[m
+Author: Mohammed Rakib <rafz.rakib@gmail.com>
+Date:   Mon Jul 6 19:43:48 2020 +0600
+
+    Adding git ignore
+
+[33mcommit e59f8d3b4e4c17e52d11e121c2973d705d1b45ec[m
+Author: Mohammed Rakib <rafz.rakib@gmail.com>
+Date:   Mon Jul 6 19:23:18 2020 +0600
+
+    Checkpoints removed
+
+[33mcommit 352b1bdb8e2ea1d29aaf17c071c739984b213006[m
+Author: Mohammed Rakib <rafz.rakib@gmail.com>
+Date:   Mon Jul 6 17:54:18 2020 +0600
+
+    Adding data files for analysis
+
+[33mcommit 6376792b64aa6d28c97e46557fa9bc4ebae49b81[m
+Author: Mohammed Rakib <rafz.rakib@gmail.com>
+Date:   Mon Jul 6 17:23:35 2020 +0600
+
+    Adding environments to the project
+
+[33mcommit 8577e1b1f05695488b4f74f1f76ccc13c83d88f0[m
+Author: Mohammed Rakib <rafz.rakib@gmail.com>
+Date:   Mon Jul 6 16:52:15 2020 +0600
+
+    A test project
+
+[33mcommit 6b964499f3a7320745b0e769dcd4ac1a20a3efbc[m
+Author: Mohammed Rakib <31034499+MohammedRakib@users.noreply.github.com>
+Date:   Mon Jul 6 16:45:00 2020 +0600
+
+    Initial commit
